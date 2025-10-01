@@ -3,15 +3,15 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.neotropic.flow.component</groupId>
     <artifactId>gantt-chart-flow-root</artifactId>
-    <version>1.0</version>
+    <version>0.1.0</version>
     <packaging>pom</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <name>gantt-chart-flow-root</name>
     <modules>
-        <module>gantt-chart-flow</module>
-        <module>scheduling-chart-flow-demo</module>
-        <module>activity-chart-flow-demo</module>
+        <module>gantt-chart-for-vaadin-flow</module>
+        <module>activity-chart-for-vaadin-flow-demo</module>
+        <module>scheduling-chart-for-vaadin-flow-demo</module>
     </modules>
 </project>
