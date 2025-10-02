@@ -13,7 +13,13 @@ Apache License 2.0
 
 ## Installation
 
-Use the following maven dependency in your project, provided that the component has already been installed in your local repository.
+Install the component in your local repository
+
+```bash
+    mvn clean install --DskipTests
+```
+
+Use the following maven dependency in your project
 
 ```bash
     <dependency>
