@@ -31,4 +31,4 @@ Use the following maven dependency in your project, provided that the component 
 
 ## Disclaimer
 
-Ace Editor and Vaadin trademarks are property of their respective owners. Neotropic SAS is not affiliated in any way to these companies. Use this component at your own risk.
+IBM Gantt Chartt and Vaadin trademarks are property of their respective owners. Neotropic SAS is not affiliated in any way to these companies. Use this component at your own risk.
