@@ -1,9 +1,9 @@
-/gantt-chart-flow/target/
-/gantt-chart-flow/frontend/generated/
-/activity-chart-flow-demo/target/
-/activity-chart-flow-demo/frontend/generated/
-/scheduling-chart-flow-demo/target/
-/scheduling-chart-flow-demo/frontend/generated/
+/gantt-chart-for-vaadin-flow/target/
+/gantt-chart-for-vaadin-flow/frontend/generated/
+/activity-chart-for-vaadin-flow-demo/target/
+/activity-chart-for-vaadin-flow-demo/frontend/generated/
+/scheduling-chart-for-vaadin-flow-demo/target/
+/scheduling-chart-for-vaadin-flow-demo/frontend/generated/
 
 .idea/
 .vscode/
