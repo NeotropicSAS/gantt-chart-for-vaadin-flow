@@ -6,8 +6,8 @@
     <groupId>org.neotropic.flow.component</groupId>
     <artifactId>gantt-chart-for-vaadin-flow</artifactId>
     <version>0.1.0</version>
-    <name>Gantt Chart Component for Vaadin Flow</name>
-    <description>Implements the basic char types in a component that can be used within Vaadin Flow applications</description>
+    <name>Gantt Charts Component for Vaadin Flow</name>
+    <description>IBM Gantt Charts library wrapper for Vaadin Flow</description>
 
     <properties>
         <vaadin.version>24.6.2</vaadin.version>
